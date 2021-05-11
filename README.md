@@ -1,7 +1,7 @@
 # ADSCSegmentingClusteringNeighborhoodsToronto
 
 
-## Coursera Data Science Capstone Final Project"
+## Coursera Data Science Capstone Final Project
 
 ### Introduction/Business Problem:
 
@@ -11,7 +11,7 @@
 
 1.3 Interest Since different cities in Metro Vancouver area has its unique characteristics, the project would be interesting to people who are potential travellers or residents. Since they are able to make a decision on which ares to explore based on their own preferences.
 
-###Data
+### Data
 
 The postal codes for all British Columbian cities are scraped from wiki page (title: List of postal codes of Canada: V, website: https:// en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V.)
 
